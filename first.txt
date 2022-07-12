@@ -1,4 +1,5 @@
 training phase 2
 july month
 hello git
+<<<<<<< HEAD
 editing this file in master
