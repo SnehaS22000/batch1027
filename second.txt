@@ -1,6 +1,4 @@
 trying new file creation
-<<<<<<< HEAD
 new branch 
 conflict ...editing in br2
-
 confilct  trying
