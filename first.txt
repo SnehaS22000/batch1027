@@ -2,3 +2,4 @@ training phase 2
 july month
 hello git
 editing this file
+checking this file in branch
