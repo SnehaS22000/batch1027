@@ -1,2 +1,3 @@
 trying new file creation
-new branch
+new branch 
+conflict ...editing in br2
